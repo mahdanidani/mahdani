@@ -1,4 +1,3 @@
-# mahdani
 # Encoding: utf-8
 #
 # Copyright:: Copyright 2012, Google Inc. All Rights Reserved.
